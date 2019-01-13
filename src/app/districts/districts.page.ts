@@ -29,8 +29,7 @@ export class DistrictsPage implements OnInit {
   }
 
   onDistrictSelected() {
-    //console.log('here' + this.selectedDistrict);
-    this.getLegislatorsJson().subscribe(jsonStr => {
+    return this.getLegislatorsJson().subscribe(jsonStr => {
       this.legislators = jsonStr;
     });
   }

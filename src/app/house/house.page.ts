@@ -21,10 +21,9 @@ export class HousePage implements OnInit {
   legislators: any;
   legislatorsToAdd: any;
   private start: number = 0;
-  private end: number = 30;
+  private end: number = 47;
 
   constructor(public http: Http) {
-    //Load the first ten
     this.getJson(this.start, this.end).subscribe(
       jsonStr => (this.legislators = jsonStr)
     );
@@ -47,28 +46,39 @@ export class HousePage implements OnInit {
   }
 
   loadData(event) {
-    console.log(this.start);
-    if (this.start === 124) {
-      event.target.complete();
-      // console.log('here');
-      // this.start = 0;
-      // setTimeout(() => {
-      //   console.log(this.start);
-      //   this.getJson(this.start, this.end).subscribe(
-      //     jsonStr => (this.legislators = jsonStr)
-      //   );
-      //   event.target.complete();
-      // }, 500);
-    } else {
-      setTimeout(() => {
-        this.start++;
-        this.start += this.end;
+    // if (this.start > 62) {
+    //   event.target.complete();
+    //   console.log('here');
+    //   this.start = 0;
+
+    //   setTimeout(() => {
+    //     this.getJson(this.start, this.end).subscribe(
+    //       jsonStr => (this.legislators = jsonStr)
+    //     );
+    //     event.target.complete();
+    //   }, 500);
+    // } else {
+
+    setTimeout(() => {
+      console.log(this.start);
+      if (this.start == 48) {
+        this.start = 0;
+        this.end = 47;
+        console.log('here1');
         this.getJson(this.start, this.end).subscribe(
           jsonStr => (this.legislators = jsonStr)
         );
-        event.target.complete();
-      }, 500);
-    }
+      } else {
+        this.start++;
+        this.start += this.end;
+        console.log('here2');
+        this.getJson(this.start, this.end).subscribe(
+          jsonStr => (this.legislators = jsonStr)
+        );
+      }
+
+      event.target.complete();
+    }, 1000);
   }
 
   mailto(email) {

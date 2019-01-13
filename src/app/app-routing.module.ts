@@ -12,8 +12,24 @@ const routes: Routes = [
     loadChildren: './home/home.module#HomePageModule'
   },
   {
-    path: 'list',
-    loadChildren: './list/list.module#ListPageModule'
+    path: 'governor',
+    loadChildren: './governor/governor.module#GovernorPageModule'
+  },
+  {
+    path: 'senators',
+    loadChildren: './senators/senators.module#SenatorsPageModule'
+  },
+  {
+    path: 'districts',
+    loadChildren: './districts/districts.module#DistrictsPageModule'
+  },
+  {
+    path: 'ndmca',
+    loadChildren: './ndmca/ndmca.module#NdmcaPageModule'
+  },
+  {
+    path: 'house',
+    loadChildren: './house/house.module#HousePageModule'
   }
 ];
 

@@ -1,0 +1,57 @@
+.card-background-page {
+  ion-card {
+    position: relative;
+    text-align: center;
+  }
+
+  .membersImg img {
+    width: 100%;
+    height: 20%;
+  }
+
+  .card-wrapper {
+    top: 70%;
+    width: 100%;
+    background-color: rgba(190, 190, 190, 0.93);
+    position: absolute;
+    height: 30%;
+  }
+  .card-title {
+    top: 27%;
+    font-size: 1.4em;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+  }
+
+  .card-subtitle {
+    font-size: 1.2em;
+    position: absolute;
+    top: 24%;
+    width: 100%;
+    color: #fff;
+  }
+  .card-committee {
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    color: #fff;
+  }
+  .card-committees {
+    font-size: 1.3em;
+    width: 100%;
+    color: #fff;
+  }
+
+  .card-email {
+    position: absolute;
+    top: 75%;
+    width: 100%;
+    color: #fff;
+  }
+
+  .mail-icon {
+    font-size: 2.7em;
+    vertical-align: top;
+  }
+}

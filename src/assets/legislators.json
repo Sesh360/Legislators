@@ -1,0 +1,4635 @@
+[
+  {
+    "Id": 142,
+    "Name": "Howard C. Anderson, Jr.",
+    "Email": "hcanderson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Turtle Lake",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 8,
+    "Address": "2107 Seventh Street NW",
+    "AddressCity": "Turtle Lake",
+    "AddressZip": "58575-9667",
+    "AddressState": "ND",
+    "HomePhone": "701-448-2235",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Anderson, Howard.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 8, "DistrictNumber": "8" },
+    "Committees": [
+      {
+        "CommitteeId": 6,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 12,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 143,
+    "Name": "JoNell A. Bakke",
+    "Email": "jbakke@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 43,
+    "Address": "1498 Norchip Circle",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58201-3702",
+    "AddressState": "ND",
+    "HomePhone": "701-775-6031",
+    "CellPhone": "701-771-2193",
+    "FileName": "/assets/Images/Bakke, JoNell.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 43, "DistrictNumber": "43" },
+    "Committees": [
+      {
+        "CommitteeId": 8,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 144,
+    "Name": "Brad Bekkedahl",
+    "Email": "bbekkedahl@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Williston",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 1,
+    "Address": "418 12th Avenue West",
+    "AddressCity": "Williston",
+    "AddressZip": "58801-4730",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-550-9731",
+    "FileName": "/assets/Images/Bekedahl, Brad.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 1, "DistrictNumber": "1" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 145,
+    "Name": "Randy Burckhard",
+    "Email": "raburckhard@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 5,
+    "Address": "1837 15th Street SW",
+    "AddressCity": "Minot",
+    "AddressZip": "58701-6158",
+    "AddressState": "ND",
+    "HomePhone": "701-838-1509",
+    "CellPhone": "952-693-3109",
+    "FileName": "/assets/Images/Burchard, Randy.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 5, "DistrictNumber": "5" },
+    "Committees": [
+      {
+        "CommitteeId": 12,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 146,
+    "Name": "David A. Clemens",
+    "Email": "dclemens@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "West Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 16,
+    "Address": "1682 Oakwood Drive",
+    "AddressCity": "West Fargo",
+    "AddressZip": "58078-4315",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "218-779-2320",
+    "FileName": "/assets/Images/Clemens, David.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 16, "DistrictNumber": "16" },
+    "Committees": [
+      {
+        "CommitteeId": 6,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 147,
+    "Name": "Dwight Cook",
+    "Email": "dcook@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Mandan",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 34,
+    "Address": "1408 17th Street SE",
+    "AddressCity": "Mandan",
+    "AddressZip": "58554-4895",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-833-4752",
+    "FileName": "/assets/Images/Cook, Dwight.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 34, "DistrictNumber": "34" },
+    "Committees": [
+      {
+        "CommitteeId": 5,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 148,
+    "Name": "Kyle Davison",
+    "Email": "kdavison@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 41,
+    "Address": "4918 Meadow Creek Drive South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58104-7116",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "218-791-0491",
+    "FileName": "/assets/Images/Davison,Kyle.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 41, "DistrictNumber": "41" },
+    "Committees": [
+      {
+        "CommitteeId": 10,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 149,
+    "Name": "Dick Dever",
+    "Email": "ddever@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 32,
+    "Address": "1416 Eastwood Street",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58504-6226",
+    "AddressState": "ND",
+    "HomePhone": "701-222-2604",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Dever, Dick.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 32, "DistrictNumber": "32" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 150,
+    "Name": "Jim Dotzenrod",
+    "Email": "jdotzenrod@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Wyndmere",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 26,
+    "Address": "P.O. Box 69",
+    "AddressCity": "Wyndmere",
+    "AddressZip": "58081-0069",
+    "AddressState": "ND",
+    "HomePhone": "701-439-2427",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Dotzenrod, Jim.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 26, "DistrictNumber": "26" },
+    "Committees": [
+      {
+        "CommitteeId": 5,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 151,
+    "Name": "Michael Dwyer",
+    "Email": "madwyer@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 47,
+    "Address": "1754 Santa Gertrudis Drive",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-0862",
+    "AddressState": "ND",
+    "HomePhone": "701-258-9440",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Dwyer, Mike.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 47, "DistrictNumber": "47" },
+    "Committees": [
+      {
+        "CommitteeId": 8,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 152,
+    "Name": "Jay Elkin",
+    "Email": "jayelkin@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Taylor",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 36,
+    "Address": "3489 94th Avenue SW",
+    "AddressCity": "Taylor",
+    "AddressZip": "58656-9645",
+    "AddressState": "ND",
+    "HomePhone": "701-378-2272",
+    "CellPhone": "701-770-8160",
+    "FileName": "/assets/Images/Elkin, Jay.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 36, "DistrictNumber": "36" },
+    "Committees": [
+      {
+        "CommitteeId": 4,
+        "CommitteeName": "Education",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 153,
+    "Name": "Robert Erbele",
+    "Email": "rerbele@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Lehr",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 28,
+    "Address": "6512 51st Avenue SE",
+    "AddressCity": "Lehr",
+    "AddressZip": "58460-9149",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-630-6746",
+    "FileName": "/assets/Images/Erbele, Robert.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 28, "DistrictNumber": "28" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 154,
+    "Name": "Robert O. Fors",
+    "Email": "rfors@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Larimore",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 19,
+    "Address": "P.O. Box 413",
+    "AddressCity": "Larimore",
+    "AddressZip": "58251-0413",
+    "AddressState": "ND",
+    "HomePhone": "701-952-1749",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Fors, Robert.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 19, "DistrictNumber": "19" },
+    "Committees": [
+      {
+        "CommitteeId": 4,
+        "CommitteeName": "Education",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 155,
+    "Name": "John Grabinger",
+    "Email": "jgrabinger@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Jamestown",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 12,
+    "Address": "1008 Eighth Avenue NE",
+    "AddressCity": "Jamestown",
+    "AddressZip": "58401-3507",
+    "AddressState": "ND",
+    "HomePhone": "701-947-2106",
+    "CellPhone": "701-720-7442",
+    "FileName": "/assets/Images/Grabinger, John.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 12, "DistrictNumber": "12" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 156,
+    "Name": "Joan Heckaman",
+    "Email": "jheckaman@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "New Rockford",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 23,
+    "Address": "322 Second Avenue North",
+    "AddressCity": "New Rockford",
+    "AddressZip": "58356-1712",
+    "AddressState": "ND",
+    "HomePhone": "701-235-1916",
+    "CellPhone": "701-509-8149",
+    "FileName": "/assets/Images/Heckaman, Joan.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 23, "DistrictNumber": "23" },
+    "Committees": []
+  },
+  {
+    "Id": 157,
+    "Name": "Kathy Hogan",
+    "Email": "khogan@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 21,
+    "Address": "710 South University Drive",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-2632",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Hogan, Kathy.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 21, "DistrictNumber": "21" },
+    "Committees": [
+      {
+        "CommitteeId": 9,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 158,
+    "Name": "David Hogue",
+    "Email": "dhogue@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 38,
+    "Address": "P.O. Box 1000",
+    "AddressCity": "Minot",
+    "AddressZip": "58702-1000",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Hogue, David.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 38, "DistrictNumber": "38" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 159,
+    "Name": "Ray Holmberg",
+    "Email": "rholmberg@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 17,
+    "Address": "621 High Plains Court",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58201-7717",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-333-8610",
+    "FileName": "/assets/Images/Holmberg, Ray.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 17, "DistrictNumber": "17" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 160,
+    "Name": "Jordan Kannianen",
+    "Email": "jkannianen@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Stanley",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 4,
+    "Address": "8011 51st Street NW",
+    "AddressCity": "Stanley",
+    "AddressZip": "58784-9562",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kannianen, Jordan.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 4, "DistrictNumber": "4" },
+    "Committees": [
+      {
+        "CommitteeId": 5,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 161,
+    "Name": "Jerry Klein",
+    "Email": "jklein@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fessenden",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 14,
+    "Address": "P.O. Box 265",
+    "AddressCity": "Fessenden",
+    "AddressZip": "58438-0265",
+    "AddressState": "ND",
+    "HomePhone": "701-838-0211",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Klein, Jerry.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 14, "DistrictNumber": "14" },
+    "Committees": [
+      {
+        "CommitteeId": 7,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 162,
+    "Name": "Karen K. Krebsbach",
+    "Email": "kkrebsbach@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 40,
+    "Address": "P.O. Box 1767",
+    "AddressCity": "Minot",
+    "AddressZip": "58702-1767",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-306-0860",
+    "FileName": "/assets/Images/Krebsbach, Karen.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 40, "DistrictNumber": "40" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 163,
+    "Name": "Curt Kreun",
+    "Email": "ckreun@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 42,
+    "Address": "3111 Longbow Court",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58203-2193",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kreun, Curt.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 42, "DistrictNumber": "42" },
+    "Committees": [
+      {
+        "CommitteeId": 11,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 164,
+    "Name": "Oley Larsen",
+    "Email": "olarsen@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 3,
+    "Address": "11051 20th Avenue SE",
+    "AddressCity": "Minot",
+    "AddressZip": "58701-2658",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-899-3232",
+    "FileName": "/assets/Images/Larsen, Oley.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 3, "DistrictNumber": "3" },
+    "Committees": [
+      {
+        "CommitteeId": 6,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 165,
+    "Name": "Diane Larson",
+    "Email": "dklarson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 30,
+    "Address": "2525 Larson Road",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58504-8926",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Larson, Diane.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 30, "DistrictNumber": "30" },
+    "Committees": [
+      {
+        "CommitteeId": 8,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 166,
+    "Name": "Gary A. Lee",
+    "Email": "galee@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Casselton",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 22,
+    "Address": "P.O. Box 3",
+    "AddressCity": "Casselton",
+    "AddressZip": "58012-0003",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-403-0961",
+    "FileName": "/assets/Images/Lee, Gary.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 22, "DistrictNumber": "22" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 167,
+    "Name": "Judy Lee",
+    "Email": "jlee@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "West Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 13,
+    "Address": "1822 Brentwood Court",
+    "AddressCity": "West Fargo",
+    "AddressZip": "58078-4204",
+    "AddressState": "ND",
+    "HomePhone": "701-474-5959",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Lee, Judy.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 13, "DistrictNumber": "13" },
+    "Committees": [
+      {
+        "CommitteeId": 6,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 168,
+    "Name": "Larry Luick",
+    "Email": "lluick@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fairmount",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 25,
+    "Address": "17945 101st Street SE",
+    "AddressCity": "Fairmount",
+    "AddressZip": "58030-9522",
+    "AddressState": "ND",
+    "HomePhone": "701-477-8985",
+    "CellPhone": "701-566-9768",
+    "FileName": "/assets/Images/Luick, Larry.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 25, "DistrictNumber": "25" },
+    "Committees": [
+      {
+        "CommitteeId": 9,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 169,
+    "Name": "Richard Marcellais",
+    "Email": "rmarcellais@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Belcourt",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 9,
+    "Address": "301 Laite Loop NE",
+    "AddressCity": "Belcourt",
+    "AddressZip": "58316-3877",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-484-1906",
+    "FileName": "/assets/Images/Marcellais, Richard.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 9, "DistrictNumber": "9" },
+    "Committees": [
+      {
+        "CommitteeId": 4,
+        "CommitteeName": "Education",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 170,
+    "Name": "Tim Mathern",
+    "Email": "tmathern@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 11,
+    "Address": "433 16th Avenue South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-4329",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-238-0763",
+    "FileName": "/assets/Images/Mathern, Tim.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 11, "DistrictNumber": "11" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 171,
+    "Name": "Scott Meyer",
+    "Email": "scottmeyer@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 18,
+    "Address": "",
+    "AddressCity": "",
+    "AddressZip": "",
+    "AddressState": "",
+    "HomePhone": "",
+    "CellPhone": "701-870-4014",
+    "FileName": "/assets/Images/Meyer, Scott.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 18, "DistrictNumber": "18" },
+    "Committees": [
+      {
+        "CommitteeId": 10,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 172,
+    "Name": "Janne Myrdal",
+    "Email": "jmyrdal@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Edinburg",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 10,
+    "Address": "P.O. Box 153",
+    "AddressCity": "Edinburg",
+    "AddressZip": "58227-0153",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "612-770-8689",
+    "FileName": "/assets/Images/Myrdal, Janne.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 10, "DistrictNumber": "10" },
+    "Committees": [
+      {
+        "CommitteeId": 9,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 173,
+    "Name": "Erin Oban",
+    "Email": "eoban@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 35,
+    "Address": "1319 Apache Street",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58501-2632",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Oban, Erin.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 35, "DistrictNumber": "35" },
+    "Committees": [
+      {
+        "CommitteeId": 4,
+        "CommitteeName": "Education",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 174,
+    "Name": "Dave Oehlke",
+    "Email": "doehlke@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Devils Lake",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 15,
+    "Address": "125 Woodlea Drive",
+    "AddressCity": "Devils Lake",
+    "AddressZip": "58301-8545",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Oehlke, Dave.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 15, "DistrictNumber": "15" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 175,
+    "Name": "Arne Osland",
+    "Email": "aosland@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Mayville",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 20,
+    "Address": "323 Second Avenue NW",
+    "AddressCity": "Mayville",
+    "AddressZip": "58257-1132",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "701-739-8275",
+    "FileName": "/assets/Images/Osland, Arne.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 20, "DistrictNumber": "20" },
+    "Committees": [
+      {
+        "CommitteeId": 9,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 176,
+    "Name": "Dale Patten",
+    "Email": "dpatten@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Watford City",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 39,
+    "Address": "P.O. Box 812",
+    "AddressCity": "Watford City",
+    "AddressZip": "58854-0812",
+    "AddressState": "ND",
+    "HomePhone": "701-205-2665",
+    "CellPhone": "701-570-4043",
+    "FileName": "/assets/Images/Patten, Dale.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 39, "DistrictNumber": "39" },
+    "Committees": [
+      {
+        "CommitteeId": 5,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 177,
+    "Name": "Merrill Piepkorn",
+    "Email": "mpiepkorn@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 44,
+    "Address": "1321 Third Street North",
+    "AddressCity": "Fargo",
+    "AddressZip": "58102-2728",
+    "AddressState": "ND",
+    "HomePhone": "701-250-6730",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Piepkorn, Merrill.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 44, "DistrictNumber": "44" },
+    "Committees": [
+      {
+        "CommitteeId": 11,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 178,
+    "Name": "Nicole Poolman",
+    "Email": "npoolman@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 7,
+    "Address": "3609 Bogey Drive",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-9195",
+    "AddressState": "ND",
+    "HomePhone": "701-845-1428",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Poolman, Nicole.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 7, "DistrictNumber": "7" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 179,
+    "Name": "Larry J. Robinson",
+    "Email": "lrobinson@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Valley City",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 24,
+    "Address": "3584 Sheyenne Circle",
+    "AddressCity": "Valley City",
+    "AddressZip": "58072-9545",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Robinson, Larry.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 24, "DistrictNumber": "24" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 180,
+    "Name": "Jim P. Roers",
+    "Email": "jroers@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 46,
+    "Address": "200 45th Street South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-0907",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Roers, Jim.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 46, "DistrictNumber": "46" },
+    "Committees": [
+      {
+        "CommitteeId": 11,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 181,
+    "Name": "Kristin Roers",
+    "Email": "kroers@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 27,
+    "Address": "4240 31st Avenue South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58104-8725",
+    "AddressState": "ND",
+    "HomePhone": "701-664-3508",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Roers, Kristin.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 27, "DistrictNumber": "27" },
+    "Committees": [
+      {
+        "CommitteeId": 10,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 182,
+    "Name": "David S. Rust",
+    "Email": "drust@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Tioga",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 2,
+    "Address": "P.O. Box 1198",
+    "AddressCity": "Tioga",
+    "AddressZip": "58852-1198",
+    "AddressState": "ND",
+    "HomePhone": "701-824-3168",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Rust, David.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 2, "DistrictNumber": "2" },
+    "Committees": [
+      {
+        "CommitteeId": 13,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 183,
+    "Name": "Donald Schaible",
+    "Email": "dgschaible@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Mott",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 31,
+    "Address": "9115 Highway 21",
+    "AddressCity": "Mott",
+    "AddressZip": "58646-9200",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Schaible, Don.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 31, "DistrictNumber": "31" },
+    "Committees": [
+      {
+        "CommitteeId": 4,
+        "CommitteeName": "Education",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 184,
+    "Name": "Ronald Sorvaag",
+    "Email": "rsorvaag@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 45,
+    "Address": "3402 Birdie Street North",
+    "AddressCity": "Fargo",
+    "AddressZip": "58102-1201",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Sorvaag, Ronald.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 45, "DistrictNumber": "45" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 185,
+    "Name": "Jessica Unruh",
+    "Email": "jkunruh@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Beulah",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 33,
+    "Address": "1224 First Avenue NE",
+    "AddressCity": "Beulah",
+    "AddressZip": "58523-6301",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Unruh, Jessica.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 33, "DistrictNumber": "33" },
+    "Committees": [
+      {
+        "CommitteeId": 11,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 186,
+    "Name": "Shawn Vedaa",
+    "Email": "svedaa@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Velva",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 6,
+    "Address": "P.O. Box 550",
+    "AddressCity": "Velva",
+    "AddressZip": "58790-0550",
+    "AddressState": "ND",
+    "HomePhone": "701-251-6113",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Vedaa, Shawn.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 6, "DistrictNumber": "6" },
+    "Committees": [
+      {
+        "CommitteeId": 7,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 187,
+    "Name": "Terry M. Wanzek",
+    "Email": "tmwanzek@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Jamestown",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 29,
+    "Address": "900 Seventh Avenue SW",
+    "AddressCity": "Jamestown",
+    "AddressZip": "58401-4542",
+    "AddressState": "ND",
+    "HomePhone": "701-483-6918",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Wanzek, Terry.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 29, "DistrictNumber": "29" },
+    "Committees": [
+      {
+        "CommitteeId": 25,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 2,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 188,
+    "Name": "Rich Wardner",
+    "Email": "rwardner@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Dickinson",
+    "Active": true,
+    "AssemblyId": 2,
+    "DistrictId": 37,
+    "Address": "1042 12th Avenue West",
+    "AddressCity": "Dickinson",
+    "AddressZip": "58601-3654",
+    "AddressState": "ND",
+    "HomePhone": "701-974-3583",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Wardner, Rich.JPG",
+    "Assembly": { "AssemblyId": 2, "AssemblyName": "Senate" },
+    "District": { "DistrictId": 37, "DistrictNumber": "37" },
+    "Committees": []
+  },
+  {
+    "Id": 189,
+    "Name": "Mary Adams",
+    "Email": "mkadams@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 43,
+    "Address": "1942 Prairie Rose Court",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58201-5896",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Adams, Mary.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 43, "DistrictNumber": "43" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 190,
+    "Name": "Bert Anderson",
+    "Email": "bertanderson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Crosby",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 2,
+    "Address": "P.O. Box 604",
+    "AddressCity": "Crosby",
+    "AddressZip": "58730-0604",
+    "AddressState": "ND",
+    "HomePhone": "701-965-6973",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Anderson, Bert.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 2, "DistrictNumber": "2" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 191,
+    "Name": "Dick Anderson",
+    "Email": "dickanderson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Willow City",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 6,
+    "Address": "1187 77th Street NE",
+    "AddressCity": "Willow City",
+    "AddressZip": "58384-9109",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Anderson, Dick.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 6, "DistrictNumber": "6" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 192,
+    "Name": "Pamela Anderson",
+    "Email": "pkanderson@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 41,
+    "Address": "3001 40th Avenue South, Unit H",
+    "AddressCity": "Fargo",
+    "AddressZip": "58104-4406",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Anderson, Pamela.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 41, "DistrictNumber": "41" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 193,
+    "Name": "Thomas Beadle",
+    "Email": "tbeadle@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 27,
+    "Address": "4266 Russet Avenue South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58104-8429",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Beadle, Thomas.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 27, "DistrictNumber": "27" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 194,
+    "Name": "Rick Becker",
+    "Email": "rcbecker@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 7,
+    "Address": "6140 Ponderosa Avenue",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-9156",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Becker, Rick.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 7, "DistrictNumber": "7" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 195,
+    "Name": "Larry Bellew",
+    "Email": "lbellew@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 38,
+    "Address": "812 Bel Air Place",
+    "AddressCity": "Minot",
+    "AddressZip": "58703-1751",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Bellew, Larry.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 38, "DistrictNumber": "38" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 196,
+    "Name": "Jake G. Blum",
+    "Email": "jblum@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 42,
+    "Address": "401 Hamline Street, Apt. #3",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58203-2801",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Blum, Jake.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 42, "DistrictNumber": "42" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 197,
+    "Name": "Tracy Boe",
+    "Email": "tboe@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Mylo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 9,
+    "Address": "5125 89th Street",
+    "AddressCity": "Mylo",
+    "AddressZip": "58353-9438",
+    "AddressState": "ND",
+    "HomePhone": "701-656-3427",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Boe, Tracy.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 9, "DistrictNumber": "9" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 198,
+    "Name": "Glenn Bosch",
+    "Email": "gdbosch@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 30,
+    "Address": "4117 Downing Street",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58504-8848",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Bosch, Glenn.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 30, "DistrictNumber": "30" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 199,
+    "Name": "Josh Boschee",
+    "Email": "jboschee@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 44,
+    "Address": "517 First Street North",
+    "AddressCity": "Fargo",
+    "AddressZip": "58102-4540",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Boschee, Josh.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 44, "DistrictNumber": "44" },
+    "Committees": []
+  },
+  {
+    "Id": 200,
+    "Name": "Mike Brandenburg",
+    "Email": "mbrandenburg@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Edgeley",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 28,
+    "Address": "8044 County Road 34",
+    "AddressCity": "Edgeley",
+    "AddressZip": "58433-9761",
+    "AddressState": "ND",
+    "HomePhone": "701-493-2915",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Brandenburg, Mike.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 28, "DistrictNumber": "28" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 201,
+    "Name": "Ruth Buffalo",
+    "Email": "rbuffalo@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 27,
+    "Address": "P.O. Box 9763",
+    "AddressCity": "Fargo",
+    "AddressZip": "58106-9763",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Buffalo, Ruth.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 27, "DistrictNumber": "27" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 202,
+    "Name": "Chuck Damschen",
+    "Email": "cdamschen@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Hampden",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 10,
+    "Address": "9461 80th Street NE",
+    "AddressCity": "Hampden",
+    "AddressZip": "58338-9351",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Damschen, Chuck.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 10, "DistrictNumber": "10" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 203,
+    "Name": "Jeff Delzer",
+    "Email": "jdelzer@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Underwood",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 8,
+    "Address": "2919 Fifth Street NW",
+    "AddressCity": "Underwood",
+    "AddressZip": "58576-9603",
+    "AddressState": "ND",
+    "HomePhone": "701-442-5435",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Delzer, Jeff.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 8, "DistrictNumber": "8" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 204,
+    "Name": "Bill Devlin",
+    "Email": "bdevlin@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Finley",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 23,
+    "Address": "P.O. Box 505",
+    "AddressCity": "Finley",
+    "AddressZip": "58230-0505",
+    "AddressState": "ND",
+    "HomePhone": "701-524-2303",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Devlin, Bill.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 23, "DistrictNumber": "23" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 205,
+    "Name": "Gretchen Dobervich",
+    "Email": "gdobervich@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 11,
+    "Address": "1625 23rd Street South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-3722",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Dobervich, Gretchen.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 11, "DistrictNumber": "11" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 206,
+    "Name": "Jason Dockter",
+    "Email": "jddockter@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 7,
+    "Address": "4433 Cumberland Loop",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-8504",
+    "AddressState": "ND",
+    "HomePhone": "701-214-0486",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Dockter, Jason.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 7, "DistrictNumber": "7" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 207,
+    "Name": "Matt Eidson",
+    "Email": "meidson@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 43,
+    "Address": "2750 South 38th Street, Apt. #121",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58201-5969",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Eidson, Matt.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 43, "DistrictNumber": "43" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 208,
+    "Name": "Sebastian Ertelt",
+    "Email": "sertelt@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Lisbon",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 26,
+    "Address": "906 Ash Street",
+    "AddressCity": "Lisbon",
+    "AddressZip": "58054-4316",
+    "AddressState": "ND",
+    "HomePhone": "701-683-2194",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Ertelt, Sebastian.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 26, "DistrictNumber": "26" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 209,
+    "Name": "Clayton Fegley",
+    "Email": "cfegley@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Berthold",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 4,
+    "Address": "10801 240th Street NW",
+    "AddressCity": "Berthold",
+    "AddressZip": "58718-9619",
+    "AddressState": "ND",
+    "HomePhone": "701-453-3151",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Fegley, Clayton.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 4, "DistrictNumber": "4" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 210,
+    "Name": "Jay Fisher",
+    "Email": "jayfisher@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 5,
+    "Address": "1828 15th Street SW",
+    "AddressCity": "Minot",
+    "AddressZip": "58701-6159",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Fisher, Jay.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 5, "DistrictNumber": "5" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 211,
+    "Name": "Jim Grueneich",
+    "Email": "jgrueneich@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Jamestown",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 12,
+    "Address": "3051 83 1/2 Avenue SE",
+    "AddressCity": "Jamestown",
+    "AddressZip": "58401-9600",
+    "AddressState": "ND",
+    "HomePhone": "701-952-0579",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Gruenich, Jim.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 12, "DistrictNumber": "12" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 212,
+    "Name": "Ron Guggisberg",
+    "Email": "rguggisberg@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 11,
+    "Address": "1621 17th Street South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-4027",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Guggisberg, Ron.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 11, "DistrictNumber": "11" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 213,
+    "Name": "LaurieBeth Hager",
+    "Email": "lbhager@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 21,
+    "Address": "920 Ninth Street South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-3146",
+    "AddressState": "ND",
+    "HomePhone": "701-280-2535",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Hager, Laurie Beth.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 21, "DistrictNumber": "21" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 214,
+    "Name": "Karla Rose Hanson",
+    "Email": "krhanson@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 44,
+    "Address": "1114 Fifth Street North",
+    "AddressCity": "Fargo",
+    "AddressZip": "58102-3713",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Hanson, Karla Rose.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 44, "DistrictNumber": "44" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 215,
+    "Name": "Patrick Hatlestad",
+    "Email": "phatlestad@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Williston",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 1,
+    "Address": "P.O. Box 1342",
+    "AddressCity": "Williston",
+    "AddressZip": "58802-1342",
+    "AddressState": "ND",
+    "HomePhone": "701-577-6656",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Hatlestad, Patrick.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 1, "DistrictNumber": "1" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 216,
+    "Name": "Craig Headland",
+    "Email": "cheadland@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Montpelier",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 29,
+    "Address": "4950 92nd Avenue SE",
+    "AddressCity": "Montpelier",
+    "AddressZip": "58472-9630",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Headland, Craig.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 29, "DistrictNumber": "29" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 217,
+    "Name": "Pat D. Heinert",
+    "Email": "pdheinert@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 32,
+    "Address": "1501 Eastwood Street",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58504-6230",
+    "AddressState": "ND",
+    "HomePhone": "701-222-1354",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Heinert, Pat.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 32, "DistrictNumber": "32" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 218,
+    "Name": "Richard G. Holman",
+    "Email": "rholman@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Mayville",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 20,
+    "Address": "622 153rd Avenue NE",
+    "AddressCity": "Mayville",
+    "AddressZip": "58257-9000",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Holman, Rick.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 20, "DistrictNumber": "20" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 219,
+    "Name": "Jeff A. Hoverson",
+    "Email": "jahoverson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 3,
+    "Address": "1300 72nd Street SE",
+    "AddressCity": "Minot",
+    "AddressZip": "58701-9377",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Hoverson, Jeff.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 3, "DistrictNumber": "3" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 220,
+    "Name": "Michael Howe",
+    "Email": "mchowe@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "West Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 22,
+    "Address": "1011 Westport Parkway",
+    "AddressCity": "West Fargo",
+    "AddressZip": "58078-8291",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Howe, Michael.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 22, "DistrictNumber": "22" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 221,
+    "Name": "Craig Johnson",
+    "Email": "craigjohnson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Maxbass",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 6,
+    "Address": "8080 17th Avenue NW",
+    "AddressCity": "Maxbass",
+    "AddressZip": "58760-9769",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Johnson, Craig.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 6, "DistrictNumber": "6" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 222,
+    "Name": "Dennis Johnson",
+    "Email": "djohnson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Devils Lake",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 15,
+    "Address": "7871 45th Street NE",
+    "AddressCity": "Devils Lake",
+    "AddressZip": "58301-9089",
+    "AddressState": "ND",
+    "HomePhone": "701-662-4998",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Johnson, Dennis.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 15, "DistrictNumber": "15" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 223,
+    "Name": "Mary Johnson",
+    "Email": "marycjohnson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 45,
+    "Address": "3407 Birdie Street",
+    "AddressCity": "Fargo",
+    "AddressZip": "58102-1203",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Johnson, Mary.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 45, "DistrictNumber": "45" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 224,
+    "Name": "Daniel Johnston",
+    "Email": "dljohnston@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Kathryn",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 24,
+    "Address": "5807 Valley Road",
+    "AddressCity": "Kathryn",
+    "AddressZip": "58049-9308",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Johnston, Daniel.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 24, "DistrictNumber": "24" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 225,
+    "Name": "Terry B. Jones",
+    "Email": "tbjones@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "New Town",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 4,
+    "Address": "P.O. Box 1964",
+    "AddressCity": "New Town",
+    "AddressZip": "58763-1964",
+    "AddressState": "ND",
+    "HomePhone": "701-627-3397",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Jones, Terry.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 4, "DistrictNumber": "4" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 226,
+    "Name": "Tom Kading",
+    "Email": "tkading@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 45,
+    "Address": "7205 County Road 31",
+    "AddressCity": "Fargo",
+    "AddressZip": "58102-6117",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kading, Tom.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 45, "DistrictNumber": "45" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 227,
+    "Name": "Karen Karls",
+    "Email": "kkarls@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 35,
+    "Address": "2112 House Drive",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58501-1978",
+    "AddressState": "ND",
+    "HomePhone": "701-258-6836",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Karls, Karen.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 35, "DistrictNumber": "35" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 228,
+    "Name": "Jim Kasper",
+    "Email": "jkasper@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 46,
+    "Address": "1128 Westrac Drive",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-2342",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kasper, Jim.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 46, "DistrictNumber": "46" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 229,
+    "Name": "George Keiser",
+    "Email": "gkeiser@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 47,
+    "Address": "422 Toronto Drive",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-0276",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kieser, George.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 47, "DistrictNumber": "47" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 230,
+    "Name": "Keith Kempenich",
+    "Email": "kkempenich@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bowman",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 39,
+    "Address": "9005 151st Avenue SW",
+    "AddressCity": "Bowman",
+    "AddressZip": "58623-8857",
+    "AddressState": "ND",
+    "HomePhone": "701-523-3858",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kempenich, Keith.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 39, "DistrictNumber": "39" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 231,
+    "Name": "Dwight Kiefert",
+    "Email": "dhkiefert@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Valley City",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 24,
+    "Address": "3721 115th Avenue SE",
+    "AddressCity": "Valley City",
+    "AddressZip": "58072-9312",
+    "AddressState": "ND",
+    "HomePhone": "701-845-0760",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Keifert, Dwight.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 24, "DistrictNumber": "24" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 232,
+    "Name": "Lawrence R. Klemin",
+    "Email": "lklemin@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 47,
+    "Address": "3929 Valley Drive",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-1729",
+    "AddressState": "ND",
+    "HomePhone": "701-222-2577",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Klemin, Lawrence.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 47, "DistrictNumber": "47" },
+    "Committees": []
+  },
+  {
+    "Id": 233,
+    "Name": "Ben Koppelman",
+    "Email": "bkoppelman@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "West Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 16,
+    "Address": "205 36 1/2 Avenue Place East",
+    "AddressCity": "West Fargo",
+    "AddressZip": "58078-7931",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Koppelman, Ben.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 16, "DistrictNumber": "16" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 234,
+    "Name": "Kim Koppelman",
+    "Email": "kkoppelman@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "West Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 13,
+    "Address": "513 First Avenue NW",
+    "AddressCity": "West Fargo",
+    "AddressZip": "58078-1101",
+    "AddressState": "ND",
+    "HomePhone": "701-282-9267",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Koppelman 2, Kim.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 13, "DistrictNumber": "13" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 235,
+    "Name": "Gary Kreidt",
+    "Email": "gkreidt@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "New Salem",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 33,
+    "Address": "3892 County Road 86",
+    "AddressCity": "New Salem",
+    "AddressZip": "58563-9406",
+    "AddressState": "ND",
+    "HomePhone": "701-843-7074",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kreidt, Gary.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 33, "DistrictNumber": "33" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 236,
+    "Name": "Vernon Laning",
+    "Email": "vrlaning@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 8,
+    "Address": "4121 78th Avenue NE",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-6396",
+    "AddressState": "ND",
+    "HomePhone": "701-355-0364",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Laning, Vernon.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 8, "DistrictNumber": "8" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 237,
+    "Name": "Mike Lefor",
+    "Email": "mlefor@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Dickinson",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 37,
+    "Address": "P.O. Box 1347",
+    "AddressCity": "Dickinson",
+    "AddressZip": "58602-1347",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Lefor, Mike.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 37, "DistrictNumber": "37" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 238,
+    "Name": "Donald W. Longmuir",
+    "Email": "dlongmuir@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Stanley",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 2,
+    "Address": "P.O. Box 1191",
+    "AddressCity": "Stanley",
+    "AddressZip": "58784-1191",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Longmuir, Don.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 2, "DistrictNumber": "2" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 239,
+    "Name": "Scott Louser",
+    "Email": "sclouser@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 5,
+    "Address": "400 Fourth Street SW",
+    "AddressCity": "Minot",
+    "AddressZip": "58701-4315",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Louser, Scott.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 5, "DistrictNumber": "5" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 240,
+    "Name": "Jeffery J. Magrum",
+    "Email": "jmagrum@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Hazelton",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 28,
+    "Address": "P.O. Box 467",
+    "AddressCity": "Hazelton",
+    "AddressZip": "58544-0467",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Magrum, Jeff.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 28, "DistrictNumber": "28" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 241,
+    "Name": "Andrew Marschall",
+    "Email": "amarschall@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 16,
+    "Address": "4469 Santiago Boulevard South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-1069",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Marschall, Andrew.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 16, "DistrictNumber": "16" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 242,
+    "Name": "Bob Martinson",
+    "Email": "bmartinson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 35,
+    "Address": "2749 Pacific Avenue",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58501-2513",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Martinson, Bob.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 35, "DistrictNumber": "35" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 243,
+    "Name": "Aaron McWilliams",
+    "Email": "amcwilliams@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Hillsboro",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 20,
+    "Address": "16148 First Street SE",
+    "AddressCity": "Hillsboro",
+    "AddressZip": "58045-9169",
+    "AddressState": "ND",
+    "HomePhone": "701-430-0460",
+    "CellPhone": "",
+    "FileName": "/assets/Images/McWilliams, Aaron.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 20, "DistrictNumber": "20" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 244,
+    "Name": "Lisa Meier",
+    "Email": "lmeier@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 32,
+    "Address": "1713 South Third Street",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58504-7114",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Meier, Lisa.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 32, "DistrictNumber": "32" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 245,
+    "Name": "Alisa Mitskog",
+    "Email": "amitskog@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Wahpeton",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 25,
+    "Address": "1504 Oakwood Avenue",
+    "AddressCity": "Wahpeton",
+    "AddressZip": "58075-3553",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Mitskog, Alisa.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 25, "DistrictNumber": "25" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 246,
+    "Name": "Corey Mock",
+    "Email": "crmock@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 18,
+    "Address": "P.O. Box 12542",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58208-2542",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Mock, Corey.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 18, "DistrictNumber": "18" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 247,
+    "Name": "David Monson",
+    "Email": "dmonson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Osnabrock",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 10,
+    "Address": "P.O. Box 8",
+    "AddressCity": "Osnabrock",
+    "AddressZip": "58269-0008",
+    "AddressState": "ND",
+    "HomePhone": "701-496-3394",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Monson, David.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 10, "DistrictNumber": "10" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 248,
+    "Name": "Mike Nathe",
+    "Email": "mrnathe@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 30,
+    "Address": "3723 Lockport Street",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58503-5537",
+    "AddressState": "ND",
+    "HomePhone": "701-250-0645",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Nathe, Mike.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 30, "DistrictNumber": "30" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 249,
+    "Name": "Jon O. Nelson",
+    "Email": "jonelson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Rugby",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 14,
+    "Address": "420 Sixth Avenue SE",
+    "AddressCity": "Rugby",
+    "AddressZip": "58368-2320",
+    "AddressState": "ND",
+    "HomePhone": "701-776-6738",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Nelson, Jon,_1.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 14, "DistrictNumber": "14" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 250,
+    "Name": "Marvin E. Nelson",
+    "Email": "menelson@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Rolla",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 9,
+    "Address": "P.O. Box 577",
+    "AddressCity": "Rolla",
+    "AddressZip": "58367-0577",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Nelson, Marvin.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 9, "DistrictNumber": "9" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 251,
+    "Name": "Emily O'Brien",
+    "Email": "eobrien@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 42,
+    "Address": "2002 University Avenue, Apt. #3",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58203-3346",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/O'Brien, Emily.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 42, "DistrictNumber": "42" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 252,
+    "Name": "Mark S. Owens",
+    "Email": "mowens@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 17,
+    "Address": "5865 Fountain Vista Drive",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58201-2820",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Owens, Mark_1.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 17, "DistrictNumber": "17" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 253,
+    "Name": "Bob Paulson",
+    "Email": "bpaulson@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 3,
+    "Address": "9801 Highway 52 South",
+    "AddressCity": "Minot",
+    "AddressZip": "58701-2426",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Paulson, Bob.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 3, "DistrictNumber": "3" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 254,
+    "Name": "Gary Paur",
+    "Email": "gpaur@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Gilby",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 19,
+    "Address": "2710 28th Street NE",
+    "AddressCity": "Gilby",
+    "AddressZip": "58235-9706",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Paur, Gary.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 19, "DistrictNumber": "19" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 255,
+    "Name": "Chet Pollert",
+    "Email": "cpollert@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Carrington",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 29,
+    "Address": "151 Crossroads Estates Drive",
+    "AddressCity": "Carrington",
+    "AddressZip": "58421-8919",
+    "AddressState": "ND",
+    "HomePhone": "701-652-2494",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Pollert, Chet.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 29, "DistrictNumber": "29" },
+    "Committees": []
+  },
+  {
+    "Id": 256,
+    "Name": "Todd Porter",
+    "Email": "tkporter@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Mandan",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 34,
+    "Address": "4604 Borden Harbor Drive SE",
+    "AddressCity": "Mandan",
+    "AddressZip": "58554-7961",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Porter, Todd.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 34, "DistrictNumber": "34" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 257,
+    "Name": "Brandy Pyle",
+    "Email": "bpyle@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Casselton",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 22,
+    "Address": "P.O. Box 337",
+    "AddressCity": "Casselton",
+    "AddressZip": "58012-0337",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Pyle, Brandy.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 22, "DistrictNumber": "22" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 258,
+    "Name": "David Richter",
+    "Email": "dwrichter@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Williston",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 1,
+    "Address": "2414 22nd Street West",
+    "AddressCity": "Williston",
+    "AddressZip": "58801-6500",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Richter, David.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 1, "DistrictNumber": "1" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 259,
+    "Name": "Shannon Roers Jones",
+    "Email": "sroersjones@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 46,
+    "Address": "5948 Silverleaf Drive South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58104-7127",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Roers Jones, Shannon.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 46, "DistrictNumber": "46" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 260,
+    "Name": "Karen M. Rohr",
+    "Email": "kmrohr@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Mandan",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 31,
+    "Address": "1704 Fourth Street NE",
+    "AddressCity": "Mandan",
+    "AddressZip": "58554-3814",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Rohr, Karen.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 31, "DistrictNumber": "31" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 261,
+    "Name": "Dan Ruby",
+    "Email": "druby@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 38,
+    "Address": "4620 46th Avenue NW",
+    "AddressCity": "Minot",
+    "AddressZip": "58703-8710",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Ruby, Dan.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 38, "DistrictNumber": "38" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 262,
+    "Name": "Matthew Ruby",
+    "Email": "mruby@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 40,
+    "Address": "315 Fourth Street NW",
+    "AddressCity": "Minot",
+    "AddressZip": "58703-3129",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Ruby, Matt.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 40, "DistrictNumber": "40" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 263,
+    "Name": "Mark Sanford",
+    "Email": "masanford@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 17,
+    "Address": "675 Vineyard Drive",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58201-2904",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Sanford, Mark.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 17, "DistrictNumber": "17" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 264,
+    "Name": "Bernie Satrom",
+    "Email": "blsatrom@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Jamestown",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 12,
+    "Address": "P.O. Box 950",
+    "AddressCity": "Jamestown",
+    "AddressZip": "58402-0950",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Satrom, Bernie.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 12, "DistrictNumber": "12" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 265,
+    "Name": "Mike Schatz",
+    "Email": "mischatz@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "New England",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 36,
+    "Address": "400 East Ninth Street",
+    "AddressCity": "New England",
+    "AddressZip": "58647-7528",
+    "AddressState": "ND",
+    "HomePhone": "701-579-4823",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Schatz, Mike.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 36, "DistrictNumber": "36" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 266,
+    "Name": "Austen Schauer",
+    "Email": "aschauer@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "West Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 13,
+    "Address": "110 West Beaton Drive",
+    "AddressCity": "West Fargo",
+    "AddressZip": "58078-2657",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Schauer, Austen.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 13, "DistrictNumber": "13" },
+    "Committees": [
+      {
+        "CommitteeId": 18,
+        "CommitteeName": "Industry, Business, and Labor",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 267,
+    "Name": "Jim Schmidt",
+    "Email": "jeschmidt@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Huff",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 31,
+    "Address": "5165 Highway 1806",
+    "AddressCity": "Huff",
+    "AddressZip": "58554-8721",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Schmidt, Jim.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 31, "DistrictNumber": "31" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 268,
+    "Name": "Mary Schneider",
+    "Email": "mschneider@nd.gov",
+    "Description": "",
+    "Party": "D",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 21,
+    "Address": "1011 Eighth Street South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-2725",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Schneider, Mary.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 21, "DistrictNumber": "21" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 269,
+    "Name": "Randy A. Schobinger",
+    "Email": "rschobinger@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Minot",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 40,
+    "Address": "",
+    "AddressCity": " ",
+    "AddressZip": "",
+    "AddressState": "",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Schobinger, Randy.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 40, "DistrictNumber": "40" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 270,
+    "Name": "Cynthia Schreiber-Beck",
+    "Email": "cschreiberbeck@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Wahpeton",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 25,
+    "Address": "1251 Pegasus Road",
+    "AddressCity": "Wahpeton",
+    "AddressZip": "58075-4868",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Schrieber Beck, Cynthia.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 25, "DistrictNumber": "25" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 271,
+    "Name": "Luke Simons",
+    "Email": "lsimons@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Dickinson",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 36,
+    "Address": "11509 27th Street SW",
+    "AddressCity": "Dickinson",
+    "AddressZip": "58601-8238",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Simons, Luke.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 36, "DistrictNumber": "36" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 272,
+    "Name": "Kathy Skroch",
+    "Email": "kskroch@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Lidgerwood",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 26,
+    "Address": "10105 155th Avenue SE",
+    "AddressCity": "Lidgerwood",
+    "AddressZip": "58053-9761",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Skroch, Kathy.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 26, "DistrictNumber": "26" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 273,
+    "Name": "Vicky Steiner",
+    "Email": "vsteiner@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Dickinson",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 37,
+    "Address": "859 Senior Avenue",
+    "AddressCity": "Dickinson",
+    "AddressZip": "58601-3755",
+    "AddressState": "ND",
+    "HomePhone": "701-225-4227",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Steiner, Vicki.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 37, "DistrictNumber": "37" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 274,
+    "Name": "Michelle Strinden",
+    "Email": "mstrinden@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Fargo",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 41,
+    "Address": "245 Prairiewood Drive South",
+    "AddressCity": "Fargo",
+    "AddressZip": "58103-4625",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Strinden, Michelle.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 41, "DistrictNumber": "41" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 275,
+    "Name": "Nathan Toman",
+    "Email": "nptoman@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Mandan",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 34,
+    "Address": "203 Fourth Avenue NW",
+    "AddressCity": "Mandan",
+    "AddressZip": "58554-3135",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Toman, Nathan.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 34, "DistrictNumber": "34" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 23,
+        "CommitteeName": "Political Subdivisions",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 276,
+    "Name": "Wayne A. Trottier",
+    "Email": "wtrottier@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Northwood",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 19,
+    "Address": "115 North Lincoln Street",
+    "AddressCity": "Northwood",
+    "AddressZip": "58267-4010",
+    "AddressState": "ND",
+    "HomePhone": "701-587-5040",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Trottier, Wayne.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 19, "DistrictNumber": "19" },
+    "Committees": [
+      {
+        "CommitteeId": 16,
+        "CommitteeName": "Finance and Taxation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 277,
+    "Name": "Bill Tveit",
+    "Email": "btveit@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Hazen",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 33,
+    "Address": "610A Hazen Bay Road",
+    "AddressCity": "Hazen",
+    "AddressZip": "58545-9483",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Tveit, Bill.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 33, "DistrictNumber": "33" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 20,
+        "CommitteeName": "Agriculture",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 278,
+    "Name": "Steve Vetter",
+    "Email": "smvetter@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Grand Forks",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 18,
+    "Address": "804 South 17th Street",
+    "AddressCity": "Grand Forks",
+    "AddressZip": "58201-4241",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Vetter, Steve.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 18, "DistrictNumber": "18" },
+    "Committees": [
+      {
+        "CommitteeId": 19,
+        "CommitteeName": "Judiciary",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 21,
+        "CommitteeName": "Government and Veterans Affairs",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 279,
+    "Name": "Don Vigesaa",
+    "Email": "dwvigesaa@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Cooperstown",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 23,
+    "Address": "P.O. Box 763",
+    "AddressCity": "Cooperstown",
+    "AddressZip": "58425-0763",
+    "AddressState": "ND",
+    "HomePhone": "701-797-2448",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Vigesaa, Don.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 23, "DistrictNumber": "23" },
+    "Committees": [
+      {
+        "CommitteeId": 14,
+        "CommitteeName": "Appropriations",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 280,
+    "Name": "Robin Weisz",
+    "Email": "rweisz@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Hurdsfield",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 14,
+    "Address": "2639 First Street SE",
+    "AddressCity": "Hurdsfield",
+    "AddressZip": "58451-9029",
+    "AddressState": "ND",
+    "HomePhone": "701-962-3299",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Weisz, Robin.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 14, "DistrictNumber": "14" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 281,
+    "Name": "Greg Westlind",
+    "Email": "gwestlind@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Cando",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 15,
+    "Address": "205 13th Street",
+    "AddressCity": "Cando",
+    "AddressZip": "58324-6613",
+    "AddressState": "ND",
+    "HomePhone": "701-968-4222",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Westlind, Greg.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 15, "DistrictNumber": "15" },
+    "Committees": [
+      {
+        "CommitteeId": 17,
+        "CommitteeName": "Human Services",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 24,
+        "CommitteeName": "Transportation",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 282,
+    "Name": "Denton Zubke",
+    "Email": "dzubke@nd.gov",
+    "Description": "",
+    "Party": "R",
+    "City": "Watford City",
+    "Active": true,
+    "AssemblyId": 1,
+    "DistrictId": 39,
+    "Address": "P.O. Box 927",
+    "AddressCity": "Watford City",
+    "AddressZip": "58854-0927",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Zubke, Denton.JPG",
+    "Assembly": { "AssemblyId": 1, "AssemblyName": "House" },
+    "District": { "DistrictId": 39, "DistrictNumber": "39" },
+    "Committees": [
+      {
+        "CommitteeId": 15,
+        "CommitteeName": "Education",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      },
+      {
+        "CommitteeId": 22,
+        "CommitteeName": "Energy and Natural Resources",
+        "AssemblyId": 1,
+        "ChairUserId": 1,
+        "ViceChairUserId": 1
+      }
+    ]
+  },
+  {
+    "Id": 284,
+    "Name": "Governor Doug Burgum",
+    "Email": "",
+    "Description": "",
+    "Party": "R",
+    "City": "",
+    "Active": true,
+    "AssemblyId": 3,
+    "DistrictId": 99,
+    "Address": "600 East Boulevard Avenue",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58505-0001",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Burgum-8x10_5353.jpg",
+    "Assembly": { "AssemblyId": 3, "AssemblyName": "Governor" },
+    "District": { "DistrictId": 99, "DistrictNumber": "99" },
+    "Committees": {}
+  },
+  {
+    "Id": 284,
+    "Name": "Lt. Governor Brent Sanford",
+    "Email": "",
+    "Description": "",
+    "Party": "R",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 3,
+    "DistrictId": 99,
+    "Address": "600 East Boulevard Avenue",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58505-0001",
+    "AddressState": "ND",
+    "HomePhone": "",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Sanford_6263.jpg",
+    "Assembly": { "AssemblyId": 3, "AssemblyName": "Governor's Office" },
+    "District": { "DistrictId": 99, "DistrictNumber": "99" },
+    "Committees": {}
+  },
+  {
+    "Id": 285,
+    "Name": "Mike Gerhart",
+    "Email": "mike@ndmca.org",
+    "Description": "",
+    "Party": "NDMCA - Executive Vice President",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 4,
+    "DistrictId": 100,
+    "Address": "1937 East Capital Avenue",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58501",
+    "AddressState": "ND",
+    "HomePhone": "701-223-2700",
+    "CellPhone": "",
+    "FileName": "/assets/Images/MMike.png",
+    "Assembly": {
+      "AssemblyId": 4,
+      "AssemblyName": "NDMCA - Executive Vice President"
+    },
+    "District": { "DistrictId": 100, "DistrictNumber": "100" },
+    "Committees": {}
+  },
+  {
+    "Id": 285,
+    "Name": "Kacey M. Heidrich",
+    "Email": "kacey@ndmca.org",
+    "Description": "",
+    "Party": "NDMCA",
+    "City": "Bismarck",
+    "Active": true,
+    "AssemblyId": 4,
+    "DistrictId": 100,
+    "Address": "1937 East Capital Avenue",
+    "AddressCity": "Bismarck",
+    "AddressZip": "58501",
+    "AddressState": "ND",
+    "HomePhone": "701-223-2700",
+    "CellPhone": "",
+    "FileName": "/assets/Images/Kaceysmall.png",
+    "Assembly": { "AssemblyId": 4, "AssemblyName": "NDMCA - Office Manager" },
+    "District": { "DistrictId": 100, "DistrictNumber": "100" },
+    "Committees": {}
+  }
+]

@@ -1,0 +1,49 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title> House Members </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="card-background-page">
+  <ion-list>
+    <ion-item *ngFor="let legislator of legislators">
+      <ion-card>
+        <img class="membersImg" src="{{ legislator.FileName }}" />
+        <div class="card-wrapper">
+          <div class="card-title">
+            {{ legislator.Name }} - {{ legislator.Party }}
+          </div>
+          <div class="card-subtitle">
+            {{ legislator.Assembly.AssemblyName }} - District
+            {{ legislator.District.DistrictNumber }}
+          </div>
+          <div class="card-committee">
+            <div
+              *ngFor="let committee of legislator['Committees']"
+              class="card-committees"
+            >
+              {{ committee.CommitteeName }}
+            </div>
+          </div>
+          <div class="card-email">
+            <button
+              class="mail-icon"
+              fill="clear"
+              (click)="mailto(legislator.Email)"
+              ion-button
+              icon-only
+            >
+              <ion-icon name="mail" color="light"></ion-icon>
+            </button>
+          </div>
+        </div>
+      </ion-card>
+    </ion-item>
+  </ion-list>
+  <ion-infinite-scroll threshold="100px" (ionInfinite)="loadData($event)">
+    <ion-infinite-scroll-content></ion-infinite-scroll-content>
+  </ion-infinite-scroll>
+</ion-content>

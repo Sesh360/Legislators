@@ -1,0 +1,64 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title> About Us </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="card-background-page">
+  <ion-card class="welcome-card">
+    <ion-img src="/assets/headernew3.png"></ion-img>
+    <ion-card-title>North Dakota Motor Carriers Association</ion-card-title>
+    <br />
+    <div>
+      The North Dakota Motor Carriers Association (NDMCA) is a 501(c)6,
+      membership based organization, first founded in 1934. As the leading
+      education and advocacy organization for the transportation industry in
+      North Dakota, NDMCA promotes and represents trucking interests on a state
+      and federal level. The NDMCA provides crucial information on issues facing
+      the industry as well as essential business services to our members. The
+      NDMCA is led by 31 person Board of Directors, representative of the
+      different segments of the trucking industry.
+    </div>
+    <h4>Mission Statement</h4>
+    <h6>
+      "To Promote Highway Safety, Deliver Services and Provide Representation
+      for Our Members"
+    </h6>
+  </ion-card>
+  <ion-list>
+    <ion-item *ngFor="let legislator of legislators">
+      <ion-card>
+        <img class="membersImg" src="{{ legislator.FileName }}" />
+        <div class="card-wrapper">
+          <div class="card-title">{{ legislator.Name }}</div>
+          <div class="card-subtitle">
+            {{ legislator.Assembly.AssemblyName }}
+          </div>
+          <div class="card-email">
+            <button
+              class="mail-icon"
+              fill="clear"
+              (click)="mailto(legislator.Email)"
+              ion-button
+              icon-only
+            >
+              <ion-icon name="mail" color="light"></ion-icon>
+            </button>
+            <button
+              class="mail-icon"
+              fill="clear"
+              (click)="callto(legislator.HomePhone)"
+              ion-button
+              icon-only
+            >
+              <ion-icon name="call" color="light"></ion-icon>
+            </button>
+          </div>
+        </div>
+      </ion-card>
+    </ion-item>
+  </ion-list>
+</ion-content>

@@ -1,0 +1,177 @@
+[
+  {
+    "CommitteeId": 1,
+    "CommitteeName": "Appropriations - Edu. & Env.",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 2,
+    "CommitteeName": "Appropriations - Government Ops",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 3,
+    "CommitteeName": "Appropriations - Human Resources",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 4,
+    "CommitteeName": "Education",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 5,
+    "CommitteeName": "Finance and Taxation",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 6,
+    "CommitteeName": "Human Services",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 7,
+    "CommitteeName": "Industry, Business, and Labor",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 8,
+    "CommitteeName": "Judiciary",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 9,
+    "CommitteeName": "Agriculture",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 10,
+    "CommitteeName": "Government and Veterans Affairs",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 11,
+    "CommitteeName": "Energy and Natural Resources",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 12,
+    "CommitteeName": "Political Subdivisions",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 13,
+    "CommitteeName": "Transportation",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 14,
+    "CommitteeName": "Appropriations",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 15,
+    "CommitteeName": "Education",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 16,
+    "CommitteeName": "Finance and Taxation",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 17,
+    "CommitteeName": "Human Services",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 18,
+    "CommitteeName": "Industry, Business, and Labor",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 19,
+    "CommitteeName": "Judiciary",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 20,
+    "CommitteeName": "Agriculture",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 21,
+    "CommitteeName": "Government and Veterans Affairs",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 22,
+    "CommitteeName": "Energy and Natural Resources",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 23,
+    "CommitteeName": "Political Subdivisions",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 24,
+    "CommitteeName": "Transportation",
+    "AssemblyId": 1,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  },
+  {
+    "CommitteeId": 25,
+    "CommitteeName": "Appropriations",
+    "AssemblyId": 2,
+    "ChairUserId": 1,
+    "ViceChairUserId": 1
+  }
+]

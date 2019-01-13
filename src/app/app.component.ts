@@ -16,9 +16,29 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
-      icon: 'list'
+      title: 'Office of the Governor',
+      url: '/governor',
+      icon: 'business'
+    },
+    {
+      title: 'Senators',
+      url: '/senators',
+      icon: 'person'
+    },
+    {
+      title: 'House Members',
+      url: '/house',
+      icon: 'people'
+    },
+    {
+      title: 'Districts',
+      url: '/districts',
+      icon: 'pin'
+    },
+    {
+      title: 'NDMCA',
+      url: '/ndmca',
+      icon: 'call'
     }
   ];
 

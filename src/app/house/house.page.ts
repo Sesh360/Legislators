@@ -64,14 +64,12 @@ export class HousePage implements OnInit {
       if (this.start == 48) {
         this.start = 0;
         this.end = 47;
-        console.log('here1');
         this.getJson(this.start, this.end).subscribe(
           jsonStr => (this.legislators = jsonStr)
         );
       } else {
         this.start++;
         this.start += this.end;
-        console.log('here2');
         this.getJson(this.start, this.end).subscribe(
           jsonStr => (this.legislators = jsonStr)
         );

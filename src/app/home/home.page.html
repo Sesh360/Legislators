@@ -16,26 +16,10 @@
       >
     </ion-card-header>
   </ion-card>
-  <ion-list lines="none">
-    <ion-item href="/governor">
-      <ion-icon slot="start" color="medium" name="business"></ion-icon>
-      <ion-label>Office of the Governor</ion-label>
-    </ion-item>
-    <ion-item href="/senators">
-      <ion-icon slot="start" color="medium" name="person"></ion-icon>
-      <ion-label>Senators</ion-label>
-    </ion-item>
-    <ion-item href="/house">
-      <ion-icon slot="start" color="medium" name="people"></ion-icon>
-      <ion-label>House Members</ion-label>
-    </ion-item>
-    <ion-item href="/districts">
-      <ion-icon slot="start" color="medium" name="pin"></ion-icon>
-      <ion-label>Districts</ion-label>
-    </ion-item>
-    <ion-item href="/ndmca">
-      <ion-icon slot="start" color="medium" name="call"></ion-icon>
-      <ion-label>NDMCA</ion-label>
+  <ion-list lines="none" *ngFor="let p of appPages">
+    <ion-item [routerDirection]="'root'" [routerLink]="[p.url]">
+      <ion-icon slot="start" [name]="p.icon"></ion-icon>
+      <ion-label> {{ p.title }} </ion-label>
     </ion-item>
   </ion-list>
 </ion-content>

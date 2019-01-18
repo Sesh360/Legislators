@@ -4,6 +4,7 @@ import { map, filter, reduce, catchError, mergeMap } from 'rxjs/operators';
 import { Observable, throwError, of } from 'rxjs';
 import { listLazyRoutes } from '@angular/compiler/src/aot/lazy_routes';
 import { pipe } from '@angular/core/src/render3';
+import { InAppBrowser } from '@ionic-native/in-app-browser/ngx';
 
 @Component({
   selector: 'senator-list',
@@ -14,7 +15,7 @@ export class SenatorsPage implements OnInit {
   selectedLegislator: any;
   legislators: any;
 
-  constructor(public http: Http) {
+  constructor(public http: Http, public iab: InAppBrowser) {
     this.getJson().subscribe(jsonStr => (this.legislators = jsonStr));
   }
 

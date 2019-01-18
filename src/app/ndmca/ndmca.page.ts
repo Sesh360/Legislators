@@ -4,6 +4,7 @@ import { map, filter, reduce, catchError, mergeMap } from 'rxjs/operators';
 import { Observable, throwError, of } from 'rxjs';
 import { listLazyRoutes } from '@angular/compiler/src/aot/lazy_routes';
 import { pipe } from '@angular/core/src/render3';
+import { InAppBrowser } from '@ionic-native/in-app-browser/ngx';
 
 @Component({
   selector: 'ndmca-list',
@@ -14,7 +15,7 @@ export class NdmcaPage implements OnInit {
   private selectedItem: any;
   legislators: any;
 
-  constructor(public http: Http) {
+  constructor(public http: Http, public iab: InAppBrowser) {
     this.getJson().subscribe(jsonStr => (this.legislators = jsonStr));
   }
 
@@ -32,12 +33,12 @@ export class NdmcaPage implements OnInit {
 
   mailto(email) {
     let Link = 'mailto:' + email;
-    window.open(Link, '_system');
+    this.iab.create(Link, '_system');
   }
 
   callto(phone) {
     let Link = 'tel:' + phone;
-    window.open(Link, '_system');
+    this.iab.create(Link, '_system');
   }
 
   private handleError<T>(error: any, result?: T) {

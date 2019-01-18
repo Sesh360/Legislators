@@ -3,7 +3,7 @@
     <ion-buttons slot="start">
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
-    <ion-title>North Dakota Legislature</ion-title>
+    <ion-title> North Dakota Legislators </ion-title>
   </ion-toolbar>
 </ion-header>
 
@@ -14,12 +14,16 @@
       <ion-card-title class="welcome-title"
         >North Dakota Legislature</ion-card-title
       >
+      <ion-list lines="none" *ngFor="let p of appPages">
+        <ion-item
+          class="list-body"
+          [routerDirection]="'root'"
+          [routerLink]="[p.url]"
+        >
+          <ion-icon size="small" slot="start" [name]="p.icon"></ion-icon>
+          <ion-label> {{ p.title }} </ion-label>
+        </ion-item>
+      </ion-list>
     </ion-card-header>
   </ion-card>
-  <ion-list lines="none" *ngFor="let p of appPages">
-    <ion-item [routerDirection]="'root'" [routerLink]="[p.url]">
-      <ion-icon slot="start" [name]="p.icon"></ion-icon>
-      <ion-label> {{ p.title }} </ion-label>
-    </ion-item>
-  </ion-list>
 </ion-content>

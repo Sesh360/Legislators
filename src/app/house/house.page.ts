@@ -11,6 +11,7 @@ import {
 } from 'rxjs/operators';
 import { Observable, throwError, of } from 'rxjs';
 import { pipe } from '@angular/core/src/render3';
+import { InAppBrowser } from '@ionic-native/in-app-browser/ngx';
 
 @Component({
   selector: 'house-list',
@@ -23,7 +24,7 @@ export class HousePage implements OnInit {
   private start: number = 0;
   private end: number = 47;
 
-  constructor(public http: Http) {
+  constructor(public http: Http, public iab: InAppBrowser) {
     this.getJson(this.start, this.end).subscribe(
       jsonStr => (this.legislators = jsonStr)
     );
@@ -46,19 +47,6 @@ export class HousePage implements OnInit {
   }
 
   loadData(event) {
-    // if (this.start > 62) {
-    //   event.target.complete();
-    //   console.log('here');
-    //   this.start = 0;
-
-    //   setTimeout(() => {
-    //     this.getJson(this.start, this.end).subscribe(
-    //       jsonStr => (this.legislators = jsonStr)
-    //     );
-    //     event.target.complete();
-    //   }, 500);
-    // } else {
-
     setTimeout(() => {
       console.log(this.start);
       if (this.start == 48) {
@@ -81,7 +69,7 @@ export class HousePage implements OnInit {
 
   mailto(email) {
     let Link = 'mailto:' + email;
-    window.open(Link, '_system');
+    const browse = this.iab.create(Link, '_system');
   }
 
   private handleError<T>(error: any, result?: T) {

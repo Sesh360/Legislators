@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Http } from '@angular/http';
 import { map, filter, reduce, catchError, mergeMap } from 'rxjs/operators';
 import { Observable, of } from 'rxjs';
+import { InAppBrowser } from '@ionic-native/in-app-browser/ngx';
 
 @Component({
   templateUrl: 'districts.page.html',
@@ -12,7 +13,7 @@ export class DistrictsPage implements OnInit {
   districts: any;
   legislators: any;
 
-  constructor(public http: Http) {
+  constructor(public http: Http, public iab: InAppBrowser) {
     this.getDistrictJson().subscribe(jsonStr => {
       this.districts = jsonStr;
     });
@@ -46,6 +47,11 @@ export class DistrictsPage implements OnInit {
         return of(result as T);
       })
     );
+  }
+
+  mailto(email) {
+    let Link = 'mailto:' + email;
+    const browse = this.iab.create(Link, '_system');
   }
 
   private handleError<T>(error: any, result?: T) {
